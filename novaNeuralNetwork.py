@@ -1,3 +1,9 @@
+
+# By Matthew Hakin and Deanna Flynn
+# the model created here will examine data from 
+# andromeda galaxy to find novae events
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 # import matplotlib.image as mpimg
